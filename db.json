@@ -1,10 +1,10 @@
-{  
+{
    "nbrDoc":20,
    "nbrTotal":35,
    "pagNbr":1,
    "nbrPag":2,
-   "result":[  
-      {  
+   "result":[
+      {
          "_id":"5cdd28278dbcb1bea0e6be18",
          "corrId":"91e37990-77b9-11e9-9ef6-005056a8b8d7",
          "key":12,
@@ -36,26 +36,26 @@
          "reqType":"charging",
          "finFlag":1,
          "ntfFlag":0,
-         "cost":[  
-            {  
+         "cost":[
+            {
                "cost":1048576.0,
                "unit":"Volume"
             }
          ],
-         "totCred":[  
-            {  
+         "totCred":[
+            {
                "totalCredit":0.0,
                "unit":"Volume"
             }
          ],
-         "totAvl":[  
-            {  
+         "totAvl":[
+            {
                "totAvl":8.276992E7,
                "unit":"Volume"
             }
          ],
-         "ocs":[  
-            {  
+         "ocs":[
+            {
                "QODSID":"91e37990-77b9-11e9-9ef6-005056a8b8d7-1",
                "site":1,
                "res":10001,
@@ -70,52 +70,52 @@
                "volUp":524288,
                "volDown":524288,
                "recSNbr":5,
-               "bkts":[  
-                  {  
+               "bkts":[
+                  {
                      "modName":"default",
                      "credVal":0.0,
                      "debVal":1048576.0,
                      "bktAvl":8.276992E7,
                      "unit":"0",
                      "unitLbl":"Volume",
-                     "uAmnt":[  
-                        {  
+                     "uAmnt":[
+                        {
                            "unit":"2",
                            "val":0.0
                         },
-                        {  
+                        {
                            "unit":"0",
                            "val":1048576.0
                         },
-                        {  
+                        {
                            "unit":"1",
                            "val":0.0
                         },
-                        {  
+                        {
                            "unit":"214",
                            "val":0.0
                         }
                      ],
-                     "chrgAmnt":[  
-                        {  
+                     "chrgAmnt":[
+                        {
                            "unit":"2",
                            "val":0.0
                         },
-                        {  
+                        {
                            "unit":"0",
                            "val":1048576.0
                         },
-                        {  
+                        {
                            "unit":"1",
                            "val":0.0
                         },
-                        {  
+                        {
                            "unit":"214",
                            "val":0.0
                         }
                      ],
-                     "bktSpInfo":[  
-                        {  
+                     "bktSpInfo":[
+                        {
                            "argNm":"assetCode",
                            "argVal":"data"
                         }
